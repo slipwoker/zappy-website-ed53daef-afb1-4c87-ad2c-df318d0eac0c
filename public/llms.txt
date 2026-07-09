@@ -1,0 +1,86 @@
+# ‏דיג׳יי להזמנה — Generative Engine Optimization Map
+
+> A DJ artist looking to attract bookings through a personal website. The site should showcase their identity as a performer and make it easy for potential clients to hire them for events.
+
+---
+
+## Pages
+
+### בית
+https://-ed53daef.zappy5.app
+מחפשים דיג׳יי מקצועי לאירוע שלכם? צליל מושלם, קצב מדבק ואנרגיה שגורמת לכולם לרקוד. התאימו את המוזיקה לאווירה שחלמתם עליה והזמינו עוד היום להופעה שתעיף את האורחים.
+
+### שירותי אירועים
+https://-ed53daef.zappy5.app/event-services
+חתונה, בר מצווה או מסיבת חברה? גלו חבילות תקליטנות מותאמות אישית עם ציוד סאונד מתקדם, תאורה חכמה ורפרטואר שמכסה כל סגנון. התאימו שירות אירועים שיהפוך את הרגע לבלתי נשכח.
+
+### אודות התקליטן
+https://-ed53daef.zappy5.app/about
+מעבר למוזיקה עומד אמן שמחבר בין צלילים לרגשות. קראו את הסיפור שלי, הגישה הייחודית להופעות, ולמה אני האיש שירים לכם את האירוע. מוזמנים להכיר את התקליטן שיעשה את ההבדל.
+
+### גלריה
+https://-ed53daef.zappy5.app/gallery
+תמונות ווידאו מההופעות האחרונות שמראות את האנרגיה, השמחה והקהל על הרגליים. הציצו לגלריה וקבלו השראה לאירוע שלכם. כל תמונה היא הבטחה למסיבה שתזכרו לנצח.
+
+### צור קשר
+https://-ed53daef.zappy5.app/contact
+רוצים להזמין אותי לאירוע? השאירו פרטים בטופס ואחזור אליכם עם הצעה מותאמת שתגרום למוזיקה לדבר. אל תחכו לרגע האחרון – צרו קשר עכשיו ובואו נתכנן יחד את המסיבה המושלמת.
+
+### תודה רבה | דיג׳יי להזמנה
+https://-ed53daef.zappy5.app/thank-you
+תודה שפנית אלינו בנושא Entertainment / Music. הודעתך התקבלה בהצלחה והצוות שלנו יחזור אליך בהקדם עם כל הפרטים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ed53daef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ed53daef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ed53daef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-ed53daef.zappy5.app/contact
+- Endpoint: https://-ed53daef.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏דיג׳יי להזמנה
+A DJ artist looking to attract bookings through a personal website. The site should showcase their identity as a performer and make it easy for potential clients to hire them for events.
+
+## Target Audience
+- מארגני חתונות
+- מפיקי אירועים עסקיים
+- מארגני מסיבות יום הולדת
+
+## Industry
+Entertainment / Music
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ed53daef.zappy5.app/sitemap.xml
+- Robots: https://-ed53daef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ed53daef.zappy5.app/llms-full.txt
