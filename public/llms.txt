@@ -51,7 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: persony2014@gmail.com
 - Phone: 0584917322
 - Phone (tel): tel:0584917322
-- Address: עלי כהן 3, נאחלת, ראשון לציון, 1234, ישראל 
+- Address: Ellie coin3, Nala, Russian Let, 1234, Israel
 
 ### Contact form
 - URL: https://example.com/contact
