@@ -51,7 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: persony2014@gmail.com
 - Phone: 0584917322
 - Phone (tel): tel:0584917322
-- Address: עלי כהן 3, נאחלת, ראשון לציון, ראשון לציון, ישראל 
+- Address: עלי כהן 3, נאחלת, ראשון לציון, 1234, ישראל 
 
 ### Contact form
 - URL: https://example.com/contact
